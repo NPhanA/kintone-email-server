@@ -6,7 +6,7 @@ const cors = require("cors");
 const app = express();
 
 app.use(cors({
-  origin: 'https://qmmtawzjw7cs.kintone.com',
+  origin: 'https://d5dvv106cbcx.kintone.com',
   methods: ['POST'],
   allowedHeaders: ['Content-Type']
 }));
